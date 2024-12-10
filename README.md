@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bigbrotherofc
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning python，
+- 🌱 I’m currently learning python and java，
 - 📫 How to reach me 15850778309 or 220211073@seu.edu.cn
 
 <!---
